@@ -2,3 +2,8 @@ body {
     color: blue;
     font-size: 22px;
 }
+
+p {
+    color: green;
+    font-size: 20px;
+}
